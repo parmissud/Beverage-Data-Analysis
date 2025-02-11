@@ -37,7 +37,4 @@ Ensure you have the following installed:
 2. Ensure the dataset is accessible from Google Drive.
 3. Run the notebook cells to load, process, and analyze the data.
 
-## Links
-- **Colab Notebook:** [Google Colab Link](https://colab.research.google.com)
-- **Dataset:** [Google Drive Link](https://drive.google.com)
 
